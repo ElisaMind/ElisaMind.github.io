@@ -152,12 +152,6 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	p1 { 
-	margin-left: auto;
-    	margin-right: auto;
-    	width: 6em	
-	}
-
 	h1, h2, h3, h4, h5, h6 {
 		color: #61686b;
 		font-weight: 800;
