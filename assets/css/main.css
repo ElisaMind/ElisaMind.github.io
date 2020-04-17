@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+.centre{
+  text-align: center;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
